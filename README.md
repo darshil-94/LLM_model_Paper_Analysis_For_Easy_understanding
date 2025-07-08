@@ -21,7 +21,7 @@ Whether you're a student, researcher, or developer — this project helps you **
 
 | Model Name     | Focus Areas                               | Read PDF |
 |----------------|--------------------------------------------|----------|
-| **Qwen2.5**     | MoE, GRPO/DPO, Long Context (1M tokens)     | [📄 View]([./](https://github.com/darshil-94/LLM_model_Paper_Analysis_For_Easy_understanding/blob/main/Qwen2.5_Analysis.pdf) |
+| **Qwen2.5**     | MoE, GRPO/DPO, Long Context (1M tokens)     | [📄 View](https://github.com/darshil-94/LLM_model_Paper_Analysis_For_Easy_understanding/blob/main/Qwen2.5_Analysis.pdf) |
 | **DeepSeek-V3** | MLA, FP8, MoE Routing, DualPipe Scheduling | [📄 View](https://github.com/darshil-94/LLM_model_Paper_Analysis_For_Easy_understanding/blob/main/DeepSeek_v3_Analysis.pdf) |
 | **Coming Soon** | LLaMA-3, Mistral, Phi-3, Claude-3           | 🚧 Stay Tuned |
 
