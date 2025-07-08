@@ -3,6 +3,8 @@
   <img src="./assets/sutra_logo.png" width="300" alt="SUTRA Logo">
 </p>
 
+<img src="./assets/SUTRA.png" width="300" alt="SUTRA Logo">
+
 <h1 align="center">📘 S.U.T.R.A.</h1>
 <h3 align="center">Simplified Understanding of Transformer Research & Architectures</h3>
 <p align="center"><i>“Learning Made Simple — Guided by Wisdom”</i></p>
@@ -21,8 +23,8 @@ Whether you're a student, researcher, or developer — this project helps you **
 
 | Model Name     | Focus Areas                               | Read PDF |
 |----------------|--------------------------------------------|----------|
-| **Qwen2.5**     | MoE, GRPO/DPO, Long Context (1M tokens)     | [📄 View](./Qwen2.5_Analysis.pdf) |
-| **DeepSeek-V3** | MLA, FP8, MoE Routing, DualPipe Scheduling | [📄 View](./DeepSeekV3_Analysis.pdf) |
+| **Qwen2.5**     | MoE, GRPO/DPO, Long Context (1M tokens)     | [📄 View]([./](https://github.com/darshil-94/LLM_model_Paper_Analysis_For_Easy_understanding/blob/main/Qwen2.5_Analysis.pdf) |
+| **DeepSeek-V3** | MLA, FP8, MoE Routing, DualPipe Scheduling | [📄 View](https://github.com/darshil-94/LLM_model_Paper_Analysis_For_Easy_understanding/blob/main/DeepSeek_v3_Analysis.pdf) |
 | **Coming Soon** | LLaMA-3, Mistral, Phi-3, Claude-3           | 🚧 Stay Tuned |
 
 ---
