@@ -70,7 +70,7 @@ The name is inspired by the Sanskrit word "सूत्र" meaning **a thread o
 ## 👤 Author
 
 **Darshil Patel**  
-🧠 AI | ML | NLP | LLMs | Embedded AI  
+🧠 AI | ML | DL | NLP | LLMs | Gen-AI   
 📫 Email: [darshilpatel.ds9472@gmail.com](mailto:darshilpatel.ds9472@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/patel-darshil-5a54932a9/) | [Kaggle](https://www.kaggle.com/darshil23)
 
