@@ -1,9 +1,5 @@
 <!-- Banner with Hindu mythology-inspired logo -->
 <p align="center">
-  <img src="./assets/Black and White Modern Streetwear Sport Logo.png" width="300" alt="SUTRA Logo">
-</p>
-
-<p align="center">
   <img src="./assets/SUTRA.png" width="300" alt="SUTRA Logo">
 </p>
 
@@ -101,4 +97,6 @@ All paper references and content credit belong to their respective model authors
 > – Inspired by the spirit of **Saraswati**, the goddess of wisdom.
 
 ---
-![SUTRA](https://github.com/user-attachments/assets/5e3b35bc-4998-4313-b66c-0a08505d0a15)
+!<p align="center">
+  <img src="./assets/Black and White Modern Streetwear Sport Logo.png" width="300" alt="SUTRA Logo">
+</p>
