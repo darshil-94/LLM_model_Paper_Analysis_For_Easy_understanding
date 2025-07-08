@@ -72,7 +72,7 @@ The name is inspired by the Sanskrit word "सूत्र" meaning **a thread o
 **Darshil Patel**  
 🧠 AI | ML | NLP | LLMs | Embedded AI  
 📫 Email: [darshilpatel.ds9472@gmail.com](mailto:darshilpatel.ds9472@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/patel-darshil) | [Kaggle](https://kaggle.com/dar_shil_23)
+🔗 [LinkedIn]([https://linkedin.com/in/patel-darshil](https://www.linkedin.com/in/patel-darshil-5a54932a9/)) | [Kaggle]([https://kaggle.com/dar_shil_23](https://www.kaggle.com/darshil23))
 
 ---
 
