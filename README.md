@@ -1,9 +1,11 @@
 <!-- Banner with Hindu mythology-inspired logo -->
 <p align="center">
-  <img src="./assets/sutra_logo.png" width="300" alt="SUTRA Logo">
+  <img src="./assets/Black and White Modern Streetwear Sport Logo.png" width="300" alt="SUTRA Logo">
 </p>
 
-<img src="./assets/SUTRA.png" width="300" alt="SUTRA Logo">
+<p align="center">
+  <img src="./assets/SUTRA.png" width="300" alt="SUTRA Logo">
+</p>
 
 <h1 align="center">📘 S.U.T.R.A.</h1>
 <h3 align="center">Simplified Understanding of Transformer Research & Architectures</h3>
